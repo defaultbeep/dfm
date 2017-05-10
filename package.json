@@ -1,0 +1,19 @@
+{
+  "name": "dfm",
+  "version": "1.0.0",
+  "description": "CLI for dotfile management",
+  "bin": {
+    "dfm": "./lib/cli.js"
+  },
+  "keywords": [
+    "dotfile",
+    "manager",
+    "cli"
+  ],
+  "author": "Jonathan Goodman <jonathanalbangoodman@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0"
+  }
+}
