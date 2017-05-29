@@ -1,6 +1,6 @@
 {
   "name": "dfm",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "CLI for dotfile management",
   "bin": {
     "dfm": "./lib/cli.js"
